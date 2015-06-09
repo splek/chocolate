@@ -1,6 +1,6 @@
 {
   "templates": [
-    "hands {user} a {size} {temperature} {flavor} {coffee} with {shots} shots of espresso!"
+    "hands {user} a {size} of {temperature} {flavor} {coffee} with {shots} shots of espresso!"
   ],
   "parts": {
     "temperature": [
@@ -11,12 +11,18 @@
       "lukewarm"
     ],
     "size": [
-      "large",
-      "medium",
-      "small",
-      "grande",
-      "venti",
-      "tall"
+      "small piece",
+      "hunk",
+      "tidbit",
+      "bar",
+      "huge bar",
+      "snack sized piece"
+      "fun sized piece",
+      "shaving",
+      "bite",
+      "morsel",
+      "sliver",
+      
     ],
     "flavor": [
       "vanilla",
