@@ -1,14 +1,21 @@
 {
   "templates": [
-    "hands {user} a {size} of {temperature} {flavor} {coffee} with {shots} shots of espresso!"
+    "hands {user} {temperature} {size} of {flavor} {chocolate}!"
   ],
   "parts": {
     "temperature": [
-      "hot",
-      "cold",
-      "iced",
+      "melted",
+      "gooey",
+      "firm",
       "room temperature",
       "lukewarm"
+      "perfect"
+      "hard"
+      "crunchy"
+      "smooth"
+      "creamy"
+      "crispy"
+      "delicious"
     ],
     "size": [
       "small piece",
@@ -22,6 +29,9 @@
       "bite",
       "morsel",
       "sliver",
+      "giant piece",
+      "stash",
+      "mouthful",
       
     ],
     "flavor": [
@@ -31,7 +41,7 @@
       "hazelnut",
       "cinnamon"
     ],
-    "coffee": [
+    "chocolate": [
       "americano",
       "cubano",
       "cappuccino",
@@ -39,11 +49,7 @@
       "mocha",
       "macchiato",
       "breve"
-    ],
-    "shots": [
-      "one",
-      "two",
-      "three"
-    ]
+   
+       ]
   }
 }
