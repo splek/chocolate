@@ -1,6 +1,6 @@
 {
   "templates": [
-    "hands {user} {temperature} {size} of {flavor} {chocolate}!"
+    "hands {user} a {temperature} {size} of {flavor} {chocolate}!"
   ],
   "parts": {
     "temperature": [
@@ -16,6 +16,7 @@
       "creamy"
       "crispy"
       "delicious"
+      "mouth watering"
     ],
     "size": [
       "small piece",
